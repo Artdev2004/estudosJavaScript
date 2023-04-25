@@ -5,3 +5,4 @@ function calcularVolume(){
 
     document.getElementById("resultado").innerHTML = "O volume da lata de óleo é: " + (Math.PI * Math.pow(raio,2) * altura).toFixed(1) + " Litros"
 }
+
